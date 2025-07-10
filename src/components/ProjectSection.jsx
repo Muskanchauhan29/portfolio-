@@ -23,11 +23,11 @@ const projects = [
     id: 3,
     title: "Portfolio",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
+      "A sleek and responsive portfolio built with React and Tailwind CSS.",
     image: "/projects/project3.png",
     tags: ["React", "Tailwindcss"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://portfolio-gilt-phi-91.vercel.app/",
+    githubUrl: "https://github.com/Muskanchauhan29/portfolio-",
   },
 ];
 
